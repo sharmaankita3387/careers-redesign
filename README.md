@@ -1,5 +1,7 @@
 # High-Velocity Frontend Refactor & UI/UX Audit Demo
 
+Demo Link: https://sharmaankita3387.github.io/careers-redesign/
+
 This repository serves as a live engineering case study demonstrating **vibe-coding workflows**, rapid prototyping agility, and meticulous attention to frontend design systems. 
 
 It was built as an unsolicited technical audit and modernization proposal for a production SaaS careers portal.
